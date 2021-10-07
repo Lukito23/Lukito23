@@ -35,4 +35,4 @@
 ![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
 
 
-![Matias github stats](https://github-readme-stats.vercel.app/api?username=Lukito23&show_icons=true&hide_border=true)
+![Luca github stats](https://github-readme-stats.vercel.app/api?username=Lukito23&show_icons=true&hide_border=true)
